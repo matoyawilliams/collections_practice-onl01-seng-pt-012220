@@ -13,4 +13,10 @@ array_char.sort do |a,b|
   a<=>b 
 end 
 
+swap_elements_from_to(["love","live","laugh"],0,2)
+end 
 
+reverse_array = (["love","live","laugh"],2,1,0)
+end 
+
+find_a = [""]
